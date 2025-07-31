@@ -1,0 +1,725 @@
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\appsettings.json
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\EmergencyManagement.exe
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\EmergencyManagement.deps.json
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\EmergencyManagement.runtimeconfig.json
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Humanizer.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Npgsql.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.csproj.AssemblyReference.cache
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfoInputs.cache
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfo.cs
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.csproj.CoreCompileInputs.cache
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyManagement.props
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyManagement.props
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyManagement.props
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\scopedcss\bundle\EmergencyManagement.styles.css
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.csproj.CopyComplete
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\refint\EmergencyManagement.dll
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\EmergencyManagement.genruntimeconfig.cache
+C:\Demo\EmergencyManagement\API\obj\Debug\net8.0\ref\EmergencyManagement.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Demo\EmergencyManagement\API\bin\Debug\net8.0\Npgsql.Json.NET.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Demo\FireDrill\API\bin\Debug\net8.0\appsettings.json
+C:\Demo\FireDrill\API\bin\Debug\net8.0\EmergencyManagement.exe
+C:\Demo\FireDrill\API\bin\Debug\net8.0\EmergencyManagement.deps.json
+C:\Demo\FireDrill\API\bin\Debug\net8.0\EmergencyManagement.runtimeconfig.json
+C:\Demo\FireDrill\API\bin\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\FireDrill\API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Humanizer.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Npgsql.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Npgsql.Json.NET.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\FireDrill\API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.csproj.AssemblyReference.cache
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfoInputs.cache
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfo.cs
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.csproj.CoreCompileInputs.cache
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyManagement.props
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyManagement.props
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyManagement.props
+C:\Demo\FireDrill\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Demo\FireDrill\API\obj\Debug\net8.0\scopedcss\bundle\EmergencyManagement.styles.css
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.csproj.CopyComplete
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\FireDrill\API\obj\Debug\net8.0\refint\EmergencyManagement.dll
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\FireDrill\API\obj\Debug\net8.0\EmergencyManagement.genruntimeconfig.cache
+C:\Demo\FireDrill\API\obj\Debug\net8.0\ref\EmergencyManagement.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Demo\New folder\API\bin\Debug\net8.0\appsettings.json
+C:\Demo\New folder\API\bin\Debug\net8.0\EmergencyManagement.exe
+C:\Demo\New folder\API\bin\Debug\net8.0\EmergencyManagement.deps.json
+C:\Demo\New folder\API\bin\Debug\net8.0\EmergencyManagement.runtimeconfig.json
+C:\Demo\New folder\API\bin\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\New folder\API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Humanizer.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Npgsql.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Npgsql.Json.NET.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\New folder\API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.csproj.AssemblyReference.cache
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfoInputs.cache
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfo.cs
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.csproj.CoreCompileInputs.cache
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyManagement.props
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyManagement.props
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyManagement.props
+C:\Demo\New folder\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Demo\New folder\API\obj\Debug\net8.0\scopedcss\bundle\EmergencyManagement.styles.css
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.csproj.CopyComplete
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\New folder\API\obj\Debug\net8.0\refint\EmergencyManagement.dll
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\New folder\API\obj\Debug\net8.0\EmergencyManagement.genruntimeconfig.cache
+C:\Demo\New folder\API\obj\Debug\net8.0\ref\EmergencyManagement.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Demo\Backup\API\bin\Debug\net8.0\appsettings.json
+C:\Demo\Backup\API\bin\Debug\net8.0\EmergencyManagement.exe
+C:\Demo\Backup\API\bin\Debug\net8.0\EmergencyManagement.deps.json
+C:\Demo\Backup\API\bin\Debug\net8.0\EmergencyManagement.runtimeconfig.json
+C:\Demo\Backup\API\bin\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\Backup\API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Humanizer.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Npgsql.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Npgsql.Json.NET.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\Backup\API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.csproj.AssemblyReference.cache
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfoInputs.cache
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfo.cs
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.csproj.CoreCompileInputs.cache
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyManagement.props
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyManagement.props
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyManagement.props
+C:\Demo\Backup\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Demo\Backup\API\obj\Debug\net8.0\scopedcss\bundle\EmergencyManagement.styles.css
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.csproj.CopyComplete
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\Backup\API\obj\Debug\net8.0\refint\EmergencyManagement.dll
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\Backup\API\obj\Debug\net8.0\EmergencyManagement.genruntimeconfig.cache
+C:\Demo\Backup\API\obj\Debug\net8.0\ref\EmergencyManagement.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\appsettings.json
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\EmergencyManagement.exe
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\EmergencyManagement.deps.json
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\EmergencyManagement.runtimeconfig.json
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Humanizer.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Npgsql.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Npgsql.Json.NET.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Demo\EmergencyPreparedness\API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.csproj.AssemblyReference.cache
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfoInputs.cache
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.AssemblyInfo.cs
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.csproj.CoreCompileInputs.cache
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyManagement.props
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyManagement.props
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyManagement.props
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\scopedcss\bundle\EmergencyManagement.styles.css
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.csproj.CopyComplete
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.dll
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\refint\EmergencyManagement.dll
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.pdb
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\EmergencyManagement.genruntimeconfig.cache
+C:\Demo\EmergencyPreparedness\API\obj\Debug\net8.0\ref\EmergencyManagement.dll
